@@ -1,1 +1,2 @@
-This is a text file that i can commit form local to remote
+This is a text file that i can commit form local to remote.
+I changes in this commit file from local and push it to the remote.
