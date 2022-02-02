@@ -2,3 +2,4 @@ This is a text file that i can commit form local to remote.
 I changes in this commit file from local and push it to the remote.
 I change this file from remote and pull changes to the local.
 chnage
+change from remote to visual studio
